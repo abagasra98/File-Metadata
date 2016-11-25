@@ -1,0 +1,26 @@
+{
+  "name": "file-metadata",
+  "version": "1.0.0",
+  "description": "File Metadata Microservice project for FCC's backend certification",
+  "engines": {
+    "node": "6.5.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abagasra98/File-Metadata.git"
+  },
+  "author": "abagasra98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abagasra98/File-Metadata/issues"
+  },
+  "homepage": "https://github.com/abagasra98/File-Metadata#readme",
+  "dependencies": {
+    "multer": "^1.2.0",
+    "express": "4.14.0"
+  }
+}
